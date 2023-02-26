@@ -1,0 +1,66 @@
+@mixin mobile {
+  @media screen and (max-width: 480px) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media screen and (max-width: 768px) {
+    @content;
+  }
+}
+
+@mixin laptop {
+  @media screen and (max-width: 1200px) {
+    @content;
+  }
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  background-color: #2f2d52;
+  height: 50px;
+  padding: 10px;
+  justify-content: space-between;
+  color: #ddddf7;
+
+  .user {
+    display: flex;
+    gap: 10px;
+
+    img {
+      background-color: #ddddf7;
+      height: 40px;
+      width: 40px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+
+    .display-name {
+      font-size: 20px;
+      position: relative;
+      top: 10px;
+      margin-left: 7px;
+    }
+
+    button {
+      background-color: #5d5b8d;
+      color: #ddddf7;
+      font-size: 18px;
+      padding: 5px;
+      border-radius: 10px;
+      margin-left: 80px;
+      border: none;
+      cursor: pointer;
+      @include tablet {
+        position: absolute;
+        bottom: 10px;
+      }
+    }
+
+    button:hover {
+      background-color: crimson;
+    }
+  }
+}

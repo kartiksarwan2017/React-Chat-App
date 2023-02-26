@@ -1,0 +1,56 @@
+.search {
+  border-bottom: 1px solid gray;
+
+  .search-form {
+    padding: 10px;
+
+    input {
+      background-color: transparent;
+      border: none;
+      color: wheat;
+      outline: none;
+      height: 30px;
+      font-size: 18px;
+      position: relative;
+      bottom: 4px;
+      margin-left: 5px;
+      padding-left: 5px;
+
+      &::placeholder {
+        color: lightgray;
+      }
+    }
+  }
+}
+
+.user-chat {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: white;
+  cursor: pointer;
+
+  &:hover {
+    background-color: #2f2d52;
+  }
+
+  img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+
+  .user-chat-info {
+    span {
+      font-style: 18px;
+      font-weight: 500;
+    }
+
+    p {
+      font-size: 14px;
+      color: lightgray;
+    }
+  }
+}
