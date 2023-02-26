@@ -8,10 +8,10 @@ function Header() {
       {/* Header Container Starts */}
       <div className="header-component">
         {/* Navbar */}
-        <a href="/">
+        <a href="/React-Chat-App">
           <img src="./chatIcon.jpg" className="chat-icon" alt="chatIcon" />
         </a>
-        <a href="/">
+        <a href="/React-Chat-App">
           <h1 className="navbar-title">Chat App</h1>
         </a>
       </div>
