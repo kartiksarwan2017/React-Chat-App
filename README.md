@@ -50,9 +50,10 @@ It will display all the existing conversation messages between the users.</p>
 
 <p align="justify">
 <img height="140" width="140" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML logo">
+<img height="140" width="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS logo">
 <img height="140" width="140" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMd7eiGMX9FwRLC0uJTDewSjw_7_WvCF4ABLdwztLrCnPEXrqW0gG-pH8eT-fYPLlghjY&usqp=CAU" alt="SCSS logo">
 <img height="140" width="140" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="Javascript logo">
-<img height="140" width="140" src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="React Bootstrap logo">
+<img height="140" width="140" src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="React logo">
 <img height="140" width="140" src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="Firebase logo">
 <img height="140" width="140" src="https://www.pngitem.com/pimgs/m/13-131098_visual-studio-code-logo-hd-png-download.png" alt="Vscode img logo">
 </p>
