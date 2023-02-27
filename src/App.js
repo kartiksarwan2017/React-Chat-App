@@ -43,7 +43,7 @@ function App() {
         {/* Routes */}
         <BrowserRouter>
           <Routes>
-            <Route path="/React-Chat-App/">
+            <Route path="/">
               <Route
                 index
                 element={
