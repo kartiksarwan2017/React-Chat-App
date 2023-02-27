@@ -10,7 +10,7 @@ Creating the frontend for a Realtime Chat Application. It is built using ReactJS
 
 > ## Checkout the Website [Web Application](https://reactchatapp-33e98.web.app/)
 >
-> ## Checkout the Application Demo Video [YouTube]()
+> ## Checkout the Application Demo Video [YouTube](https://youtu.be/i89rxfknayI)
 
 <br />
 
